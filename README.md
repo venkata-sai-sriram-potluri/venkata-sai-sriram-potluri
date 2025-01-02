@@ -14,14 +14,20 @@ With over two years of professional experience in cloud engineering, software de
 
 ---
 
-## 🚀 Technical Skills
+## 📜 Certifications
 
-- **Programming Languages**: Python, Java, HTML, PHP  
-- **Databases**: MySQL, DynamoDB  
-- **Cloud & DevOps**: AWS, Kubernetes, GitLab, Jenkins, YAML  
-- **Frameworks & APIs**: Spring Boot, REST APIs  
-- **Tools**: Talend, Splunk, Postman  
-- **Machine Learning**: SARIMA, CNN, PyTorch, Data Augmentation  
+- **AWS Certified Solutions Architect Associate [Credentials](https://www.credly.com/badges/d79febf9-524f-46d2-92ad-0155dee6fdcf)**  
+- **AWS Certified Cloud Practitioner [Credentials](https://www.credly.com/badges/ef616831-59d1-498e-af2f-c80305987984)**  
+- **Graduate Certificate in Data Science (KU)**  
+
+---
+
+## 📈 Relevant Coursework
+
+- Advanced Data Science  
+- Advanced Machine Learning  
+- Computer Vision  
+- Data Privacy & Security  
 
 ---
 
@@ -72,21 +78,14 @@ With over two years of professional experience in cloud engineering, software de
 - [View Repository](https://github.com/YourGitHubUsername/text-summarization-tool)
 
 ---
+## 🚀 Technical Skills
 
-## 📜 Certifications
-
-- **AWS Certified Solutions Architect Associate [Credentials](https://www.credly.com/badges/d79febf9-524f-46d2-92ad-0155dee6fdcf)**  
-- **AWS Certified Cloud Practitioner [Credentials](https://www.credly.com/badges/ef616831-59d1-498e-af2f-c80305987984)**  
-- **Graduate Certificate in Data Science (KU)**  
-
----
-
-## 📈 Relevant Coursework
-
-- Advanced Data Science  
-- Advanced Machine Learning  
-- Computer Vision  
-- Data Privacy & Security  
+- **Programming Languages**: Python, Java, HTML, PHP  
+- **Databases**: MySQL, DynamoDB  
+- **Cloud & DevOps**: AWS, Kubernetes, GitLab, Jenkins, YAML  
+- **Frameworks & APIs**: Spring Boot, REST APIs  
+- **Tools**: Talend, Splunk, Postman  
+- **Machine Learning**: SARIMA, CNN, PyTorch, Data Augmentation  
 
 ---
 
