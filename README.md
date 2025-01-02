@@ -5,6 +5,7 @@
 🌍 Location: Lawrence, Kansas  
 📫 Email: [venkatasaisrirampotluri@gmail.com](mailto:venkatasaisrirampotluri@gmail.com)  
 🔗 LinkedIn: [Venkata Sai Sriram Potluri](https://www.linkedin.com/in/venkata-sai-sriram-potluri-1760132b1)
+
 ---
 
 ## 👨‍💻 About Me
