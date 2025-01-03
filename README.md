@@ -67,7 +67,7 @@ With over two years of professional experience in cloud engineering, software de
 **Key Skills**: CNN, PyTorch, Deep Learning, Data Augmentation  
 - Built a custom CNN with 94% validation accuracy.  
 - Benchmarked against VGG16 and AlexNet for performance evaluation.  
-- [View Repository](https://github.com/YourGitHubUsername/counterfeit-ic-detection)
+- [View Repository](https://github.com/vssrp/Counterfeit-IC-Detection-System)
 
 ---
 
