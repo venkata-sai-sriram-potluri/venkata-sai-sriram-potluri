@@ -22,15 +22,6 @@ With over two years of professional experience in cloud engineering, software de
 
 ---
 
-## 📈 Relevant Coursework
-
-- Advanced Data Science  
-- Advanced Machine Learning  
-- Computer Vision  
-- Data Privacy & Security  
-
----
-
 ## 🛠️ Professional Experience
 
 ### **Concentrix Catalyst**  
@@ -80,12 +71,15 @@ With over two years of professional experience in cloud engineering, software de
 ---
 ## 🚀 Technical Skills
 
-- **Programming Languages**: Python, Java, HTML, PHP  
-- **Databases**: MySQL, DynamoDB  
-- **Cloud & DevOps**: AWS, Kubernetes, GitLab, Jenkins, YAML  
-- **Frameworks & APIs**: Spring Boot, REST APIs  
-- **Tools**: Talend, Splunk, Postman  
-- **Machine Learning**: SARIMA, CNN, PyTorch, Data Augmentation  
+**Programming Languages:** Python, Java, HTML, PHP
+**Cloud & DevOps:** AWS (RDS, EC2, S3, Lambda, CloudFormation, IAM), Kubernetes, GitLab, Jenkins, CI/CD Pipelines, YAML
+**Data Tools:** Talend, Splunk, Postman
+**Frameworks & APIs:** Spring Boot, REST APIs, Spark
+**Databases:** MySQL, DynamoDB
+**Operating Systems:** Windows, Ubuntu
+**Build & Deployment Tools:** Maven, Apache Tomcat
+**Methodologies:** Agile, Scrum
+  
 
 ---
 
