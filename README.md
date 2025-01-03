@@ -59,7 +59,7 @@ With over two years of professional experience in cloud engineering, software de
 **Key Skills**: SARIMA, Python, Data Preprocessing, Time-Series Analysis  
 - Developed a demand forecasting model using SARIMA, reducing error by 7%.  
 - Analyzed sales and promotions data for actionable inventory insights.  
-- [View Repository](https://github.com/YourGitHubUsername/grocery-demand-prediction)
+- [View Repository](https://github.com/vssrp/Grocery-Demand-Prediction)
 
 ---
 
