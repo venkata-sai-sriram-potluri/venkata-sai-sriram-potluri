@@ -83,14 +83,14 @@ With over two years of professional experience in cloud engineering, software de
 
 ## 🚀 Technical Skills
 
-**Programming Languages:** Python, Java, HTML, PHP
-**Cloud & DevOps:** AWS (RDS, EC2, S3, Lambda, CloudFormation, IAM), Kubernetes, GitLab, Jenkins, CI/CD Pipelines, YAML
-**Data Tools:** Talend, Splunk, Postman
-**Frameworks & APIs:** Spring Boot, REST APIs, Spark
-**Databases:** MySQL, DynamoDB
-**Operating Systems:** Windows, Ubuntu
-**Build & Deployment Tools:** Maven, Apache Tomcat
-**Methodologies:** Agile, Scrum
+- **Programming Languages:** Python, Java, HTML, PHP
+- **Cloud & DevOps:** AWS (RDS, EC2, S3, Lambda, CloudFormation, IAM), Kubernetes, GitLab, Jenkins, CI/CD Pipelines, YAML
+- **Data Tools:** Talend, Splunk, Postman
+- **Frameworks & APIs:** Spring Boot, REST APIs, Spark
+- **Databases:** MySQL, DynamoDB
+- **Operating Systems:** Windows, Ubuntu
+- **Build & Deployment Tools:** Maven, Apache Tomcat
+- **Methodologies:** Agile, Scrum
   
 
 ---
