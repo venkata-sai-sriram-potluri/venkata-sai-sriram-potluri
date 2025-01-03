@@ -44,7 +44,7 @@ With over two years of professional experience in cloud engineering, software de
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projects
 
 ### **Grocery Demand Prediction**  
 **Key Skills**: SARIMA, Python, Data Preprocessing, Time-Series Analysis  
