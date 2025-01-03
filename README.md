@@ -69,6 +69,18 @@ With over two years of professional experience in cloud engineering, software de
 - [View Repository](https://github.com/YourGitHubUsername/text-summarization-tool)
 
 ---
+
+### **Steiner Tree Problem: Optimization Algorithms for Network Design**  
+**Key Skills**: Graph Theory, Optimization Algorithms, Python, Network Design
+- Implemented the Branch-and-Bound algorithm to achieve exact solutions for the Steiner Tree Problem.
+- Developed an approximation algorithm (Vazirani and Yannakakis) for efficient, near-optimal solutions with a guaranteed error bound.
+- Analyzed trade-offs between computational efficiency and accuracy in solving NP-hard problems.
+- Applied solutions to real-world use cases in telecommunications, VLSI design, and transportation networks.
+- [View Repository]()
+
+---
+
+
 ## 🚀 Technical Skills
 
 **Programming Languages:** Python, Java, HTML, PHP
