@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-With over two years of professional experience in cloud engineering, software development, and IT applications support, I specialize in building scalable systems, automating workflows, and solving complex challenges in cloud computing and machine learning. Leveraging my expertise, I have successfully driven innovation and efficiency in diverse projects, transforming business requirements into impactful, real-world solutions. I hold a Master’s degree in Computer Science from the University of Kansas, complementing my hands-on industry experience with a strong academic foundation.
+With over two years of professional experience in cloud engineering, software development I specialize in building scalable systems, automating workflows, and solving complex challenges in cloud computing and machine learning. Leveraging my expertise, I have successfully driven innovation and efficiency in diverse projects, transforming business requirements into impactful, real-world solutions. I hold a Master’s degree in Computer Science from the University of Kansas, complementing my hands-on industry experience with a strong academic foundation.
 
 ---
 
