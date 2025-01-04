@@ -40,7 +40,7 @@ With over two years of professional experience in cloud engineering, software de
 
 ---
 
-### **Text Summarization Tool**  
+### **Text Summarization Tool Using SVD**  
 **Key Skills**: Python, Tkinter, SVD, NLP  
 - Designed an extractive summarization tool using Singular Value Decomposition (SVD).  
 - Developed an interactive GUI for user input and customizations.  
