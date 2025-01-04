@@ -22,28 +22,6 @@ With over two years of professional experience in cloud engineering, software de
 
 ---
 
-## 🛠️ Professional Experience
-
-### **Concentrix Catalyst**  
-**DevOps Engineer** | Client: T-Mobile | Dec 2020 – Dec 2022  
-- Managed GitLab repositories, ensuring seamless version control.  
-- Automated cloud infrastructure deployment, minimizing errors and downtime.  
-- Conducted root cause analysis for AWS components, resolving critical system issues.  
-- Monitored user data with Splunk, creating actionable dashboards.  
-
-**Software Developer** | Client: Healthcare Vertical – PK (ProKarma)  
-- Built a health insurance platform with Java, Spring Boot, and MySQL.  
-- Developed REST APIs and maintained end-to-end project lifecycles.  
-
----
-
-## 🎓 Education
-
-- **Master of Science in Computer Science** | University of Kansas | GPA: 3.5/4.0 | Expected Dec 2024  
-- **Bachelor of Science in Computer Science and Engineering** | NMIT, India | GPA: 8.0/10.0 | Aug 2020  
-
----
-
 ## 🌟 Projects
 
 ### **Grocery Demand Prediction**  
@@ -79,7 +57,27 @@ With over two years of professional experience in cloud engineering, software de
 - [View Repository](https://github.com/vssrp/Steiner-Tree-Problem-Optimization-Algorithms-for-Network-Design)
 
 ---
+## 🛠️ Professional Experience
 
+### **Concentrix Catalyst**  
+**DevOps Engineer** | Client: T-Mobile | Dec 2020 – Dec 2022  
+- Managed GitLab repositories, ensuring seamless version control.  
+- Automated cloud infrastructure deployment, minimizing errors and downtime.  
+- Conducted root cause analysis for AWS components, resolving critical system issues.  
+- Monitored user data with Splunk, creating actionable dashboards.  
+
+**Software Developer** | Client: Healthcare Vertical – PK (ProKarma)  
+- Built a health insurance platform with Java, Spring Boot, and MySQL.  
+- Developed REST APIs and maintained end-to-end project lifecycles.  
+
+---
+
+## 🎓 Education
+
+- **Master of Science in Computer Science** | University of Kansas | GPA: 3.5/4.0 | Expected Dec 2024  
+- **Bachelor of Science in Computer Science and Engineering** | NMIT, India | GPA: 8.0/10.0 | Aug 2020  
+
+---
 
 ## 🚀 Technical Skills
 
