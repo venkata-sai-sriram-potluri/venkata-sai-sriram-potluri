@@ -10,7 +10,21 @@
 
 ## 👨‍💻 About Me
 
-With over two years of professional experience in cloud engineering, software development I specialize in building scalable systems, automating workflows, and solving complex challenges in cloud computing and machine learning. Leveraging my expertise, I have successfully driven innovation and efficiency in diverse projects, transforming business requirements into impactful, real-world solutions. I hold a Master’s degree in Computer Science from the University of Kansas, complementing my hands-on industry experience with a strong academic foundation.
+Hi there! I'm Venkata Sai Sriram Potluri, an AWS Certified Solutions Architect, Cloud Engineer, and Software Developer with over 3 years of experience designing and implementing scalable, secure, and high-performance cloud-based solutions.
+
+🔧 What I Do
+
+Architect AWS-based infrastructures to solve real-world problems efficiently.
+Automate CI/CD pipelines to streamline development and deployment workflows.
+Optimize data warehouses and manage multi-terabyte datasets from diverse global sources.
+Deliver impactful insights using Python, SQL, and machine learning, creating scalable and actionable data solutions.
+
+🚀 Key Areas of Expertise
+
+Cloud Migrations and Secure Data Workflows
+Time-Series Forecasting and Computer Vision Projects
+ETL Pipeline Optimization and Real-Time Monitoring
+
 
 ---
 
@@ -55,41 +69,6 @@ With over two years of professional experience in cloud engineering, software de
 - Analyzed trade-offs between computational efficiency and accuracy in solving NP-hard problems.
 - Applied solutions to real-world use cases in telecommunications, VLSI design, and transportation networks.
 - [View Repository](https://github.com/vssrp/Steiner-Tree-Problem-Optimization-Algorithms-for-Network-Design)
-
----
-## 🛠️ Professional Experience
-
-### **Concentrix Catalyst**  
-**DevOps Engineer** | Client: T-Mobile | Dec 2020 – Dec 2022  
-- Managed GitLab repositories, ensuring seamless version control.  
-- Automated cloud infrastructure deployment, minimizing errors and downtime.  
-- Conducted root cause analysis for AWS components, resolving critical system issues.  
-- Monitored user data with Splunk, creating actionable dashboards.  
-
-**Software Developer** | Client: Healthcare Vertical – PK (ProKarma)  
-- Built a health insurance platform with Java, Spring Boot, and MySQL.  
-- Developed REST APIs and maintained end-to-end project lifecycles.  
-
----
-
-## 🎓 Education
-
-- **Master of Science in Computer Science** | University of Kansas | GPA: 3.5/4.0 | Expected Dec 2024  
-- **Bachelor of Science in Computer Science and Engineering** | NMIT, India | GPA: 8.0/10.0 | Aug 2020  
-
----
-
-## 🚀 Technical Skills
-
-- **Programming Languages:** Python, Java, HTML, PHP
-- **Cloud & DevOps:** AWS (RDS, EC2, S3, Lambda, CloudFormation, IAM), Kubernetes, GitLab, Jenkins, CI/CD Pipelines, YAML
-- **Data Tools:** Talend, Splunk, Postman
-- **Frameworks & APIs:** Spring Boot, REST APIs, Spark
-- **Databases:** MySQL, DynamoDB
-- **Operating Systems:** Windows, Ubuntu
-- **Build & Deployment Tools:** Maven, Apache Tomcat
-- **Methodologies:** Agile, Scrum
-  
 
 ---
 
