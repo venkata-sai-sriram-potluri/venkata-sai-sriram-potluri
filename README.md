@@ -38,14 +38,14 @@ ETL Pipeline Optimization and Real-Time Monitoring
 
 ## 🌟 Projects
 
-### **VProfile Multi-Service Infrastructure Setup**  
+### ** Multi-Service Infrastructure Setup**  
 **Key Skills**: DevOps, Infrastructure Automation, Vagrant, VirtualBox, Shell Scripting, Nginx, MariaDB, RabbitMQ  
 - Designed and deployed a multi-tier web application infrastructure using manual and automated provisioning methods.  
 - Automated VM provisioning and service setup with Vagrant and shell scripts.  
 - Configured and deployed services: MariaDB, Memcached, RabbitMQ, Tomcat, and Nginx.  
 - Tested and deployed the setup with a Java-based web application.  
 - Achieved scalability and consistency with reusable scripts and a modular architecture.  
-- [View Repository](https://github.com/vssrp/VProfile_Multi_Service_Infrastructure_Setup)
+- [View Repository](https://github.com/vssrp/Multi-Service-Infrastructure-Setup/)
 
 
 ### **Grocery Demand Prediction**  
