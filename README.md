@@ -38,7 +38,7 @@ ETL Pipeline Optimization and Real-Time Monitoring
 
 ## 🌟 Projects
 
-### ** Multi-Service Infrastructure Setup**  
+### **Multi-Service Infrastructure Setup**  
 **Key Skills**: DevOps, Infrastructure Automation, Vagrant, VirtualBox, Shell Scripting, Nginx, MariaDB, RabbitMQ  
 - Designed and deployed a multi-tier web application infrastructure using manual and automated provisioning methods.  
 - Automated VM provisioning and service setup with Vagrant and shell scripts.  
