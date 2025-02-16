@@ -1,16 +1,16 @@
 # 💻 Venkata Sai Sriram Potluri
 
-**Cloud Engineer | Software Developer | Machine Learning Enthusiast**
+**DevOps Engineer | Cloud Engineer | Cloud Enthusiast | Cloud Infrastructure | Big Data | Machine Learning Enthusiast**
 
 🌍 Location: Lawrence, Kansas  
-📫 Email: [venkatasaisrirampotluri@gmail.com](mailto:venkatasaisrirampotluri@gmail.com)  
+📫 Email: [pvenkatasaisriram@gmail.com](mailto:pvenkatasaisriram@gmail.com)  
 🔗 LinkedIn: [Venkata Sai Sriram Potluri](https://www.linkedin.com/in/venkata-sai-sriram-potluri-1760132b1)
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi there! I'm Venkata Sai Sriram Potluri, an AWS Certified Solutions Architect, Cloud Engineer, and Software Developer with over 3 years of experience designing and implementing scalable, secure, and high-performance cloud-based solutions.
+Hi there! I'm Venkata Sai Sriram Potluri, an AWS Certified Solutions Architect, DevOps Engineer with over 3 years of experience designing and implementing scalable, secure, and high-performance cloud-based solutions.
 
 🔧 What I Do
 
