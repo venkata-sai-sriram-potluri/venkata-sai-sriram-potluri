@@ -38,15 +38,48 @@ ETL Pipeline Optimization and Real-Time Monitoring
 
 ## 🌟 Projects
 
-### **Multi-Service Infrastructure Setup**  
+### **Multi-Service-Local-Infrastructure-Setup**  
 **Key Skills**: DevOps, Infrastructure Automation, Vagrant, VirtualBox, Shell Scripting, Nginx, MariaDB, RabbitMQ  
 - Designed and deployed a multi-tier web application infrastructure using manual and automated provisioning methods.  
 - Automated VM provisioning and service setup with Vagrant and shell scripts.  
 - Configured and deployed services: MariaDB, Memcached, RabbitMQ, Tomcat, and Nginx.  
 - Tested and deployed the setup with a Java-based web application.  
 - Achieved scalability and consistency with reusable scripts and a modular architecture.  
-- [View Repository](https://github.com/vssrp/Multi-Service-Infrastructure-Setup/)
+- [View Repository](https://github.com/vssrp/Multi-Service-Local-Infrastructure-Setup)
 
+---
+
+### AWS Lift & Shift Migration  
+Key Skills: AWS EC2, Elastic Load Balancer (ELB), Auto Scaling, S3, Route 53, Terraform, Security & Compliance  
+- Migrated a Cloud-Based Web Application from an on-premise environment to AWS Cloud using a Lift & Shift strategy.  
+- Deployed AWS EC2 instances with Auto Scaling and Load Balancer for high availability.  
+- Configured AWS S3 and EFS for storage and ensured security with IAM roles, Security Groups, and WAF.  
+- Set up Amazon Route 53 for private DNS and domain resolution.  
+- [View Repository](https://github.com/vssrp/AWS-Lift-Shift-Migration) 
+
+---
+
+### AWS Cloud Re-Architecture (Cloud-Native Migration)  
+Key Skills: AWS Elastic Beanstalk, API Gateway, Lambda, RDS, Elastic Cache, Microservices, CI/CD  
+- Re-architected a monolithic application into a microservices-based cloud-native solution.  
+- Deployed the application using AWS Elastic Beanstalk for automated scaling.  
+- Integrated AWS API Gateway and Lambda for microservices-based request handling.  
+- Configured Amazon RDS (MySQL, PostgreSQL) and Elastic Cache (Redis, Memcached) for improved database performance.  
+- [View Repository](https://github.com/vssrp/AWS-Cloud-Re-Architecture-Cloud-Native-Migration-)  
+
+---
+
+### CI/CD Pipeline Automation using Jenkins  
+Key Skills: Jenkins, GitHub, Maven, Nexus Repository, SonarQube, Artifact Management  
+- Developed an automated CI/CD pipeline using Jenkins (Master-Slave architecture).  
+- Configured GitHub Webhooks for automated pipeline execution.  
+- Implemented Maven for build automation and Nexus Repository for artifact storage.  
+- Integrated SonarQube for static code analysis and vulnerability scanning.  
+- Scheduled Cron Jobs and Poll SCM for automated builds and deployments.  
+- Secured Jenkins with Role-Based Access Control (RBAC), LDAP authentication.  
+- [View Repository](https://github.com/vssrp/CICD-Pipeline-Automation-using-Jenkins)
+
+---
 
 ### **Grocery Demand Prediction**  
 **Key Skills**: SARIMA, Python, Data Preprocessing, Time-Series Analysis  
