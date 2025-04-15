@@ -2,9 +2,9 @@
 
 **DevOps Engineer | Cloud Engineer | Cloud Enthusiast | Cloud Infrastructure | Big Data | Machine Learning Enthusiast**
 
-🌍 Location: Lawrence, Kansas  
+🌍 Location: Dallas, Texas  
 📫 Email: [pvenkatasaisriram@gmail.com](mailto:pvenkatasaisriram@gmail.com)  
-🔗 LinkedIn: [Venkata Sai Sriram Potluri](https://www.linkedin.com/in/venkata-sai-sriram-potluri-1760132b1)
+🔗 LinkedIn: [Venkata Sai Sriram Potluri](https://www.linkedin.com/in/venkata-sai-sriram-potluri)
 
 ---
 
@@ -45,7 +45,7 @@ ETL Pipeline Optimization and Real-Time Monitoring
 - Configured and deployed services: MariaDB, Memcached, RabbitMQ, Tomcat, and Nginx.  
 - Tested and deployed the setup with a Java-based web application.  
 - Achieved scalability and consistency with reusable scripts and a modular architecture.  
-- [View Repository](https://github.com/vssrp/Multi-Service-Local-Infrastructure-Setup)
+- [View Repository](https://github.com/venkata-sai-sriram-potluri/Multi-Service-Local-Infrastructure-Setup)
 
 ---
 
@@ -55,7 +55,7 @@ Key Skills: AWS EC2, Elastic Load Balancer (ELB), Auto Scaling, S3, Route 53, Te
 - Deployed AWS EC2 instances with Auto Scaling and Load Balancer for high availability.  
 - Configured AWS S3 and EFS for storage and ensured security with IAM roles, Security Groups, and WAF.  
 - Set up Amazon Route 53 for private DNS and domain resolution.  
-- [View Repository](https://github.com/vssrp/AWS-Lift-Shift-Migration) 
+- [View Repository](https://github.com/venkata-sai-sriram-potluri/AWS-Lift-Shift-Migration) 
 
 ---
 
@@ -65,7 +65,7 @@ Key Skills: AWS Elastic Beanstalk, API Gateway, Lambda, RDS, Elastic Cache, Micr
 - Deployed the application using AWS Elastic Beanstalk for automated scaling.  
 - Integrated AWS API Gateway and Lambda for microservices-based request handling.  
 - Configured Amazon RDS (MySQL, PostgreSQL) and Elastic Cache (Redis, Memcached) for improved database performance.  
-- [View Repository](https://github.com/vssrp/AWS-Cloud-Re-Architecture-Cloud-Native-Migration-)  
+- [View Repository](https://github.com/venkata-sai-sriram-potluri/AWS-Cloud-Re-Architecture-Cloud-Native-Migration-)  
 
 ---
 
@@ -77,7 +77,42 @@ Key Skills: Jenkins, GitHub, Maven, Nexus Repository, SonarQube, Artifact Manage
 - Integrated SonarQube for static code analysis and vulnerability scanning.  
 - Scheduled Cron Jobs and Poll SCM for automated builds and deployments.  
 - Secured Jenkins with Role-Based Access Control (RBAC), LDAP authentication.  
-- [View Repository](https://github.com/vssrp/CICD-Pipeline-Automation-using-Jenkins)
+- [View Repository](https://github.com/venkata-sai-sriram-potluri/CICD-Pipeline-Automation-using-Jenkins)
+
+---
+
+### Containerization   
+Key Skills: Docker, Docker Compose, EC2, Docker CLI, Containerization, Microservices Architecture
+- Deployed Docker containers on an AWS EC2 instance using the default bridge network for secure, isolated container communication within the host.
+- Configured virtual Ethernet (veth) pairs to connect containers to the bridge interface, enabling efficient inter-container and host-to-container communication.
+- Enabled outbound internet connectivity for containers through Network Address Translation (NAT) managed by the EC2 host.
+- Leveraged Docker’s built-in networking to ensure containers remain logically isolated while maintaining internal accessibility.
+- Utilized Docker CLI and Linux networking tools to inspect, manage, and troubleshoot container networking within the EC2 environment.
+- Ensured robust and scalable container networking setup as part of a cloud-native development and deployment strategy on AWS.  
+- [View Repository](https://github.com/venkata-sai-sriram-potluri/Containerization)
+
+---
+
+### Dockerised Application Deployment in Kubernetes Cluster
+Key Skills: GitOps, GitHub Actions, CI/CD, Terraform, AWS (EKS, ECR), Docker, Helm Charts, Kubernetes.
+- Implemented GitOps methodology using GitHub Actions for CI/CD automation, ensuring streamlined deployment and version control.
+- Leveraged Terraform for infrastructure as code to provision and manage AWS resources, including Amazon EKS and ECR.
+- Integrated SonarCloud for static code analysis and quality assurance, ensuring code reliability and security.
+- Utilized Docker for containerization and Helm Charts for Kubernetes application deployment, enabling reproducible and scalable releases.
+- Established a workflow involving pull requests, code merging, and automated testing to enhance collaboration and maintain deployment consistency.
+- [View Repository](https://github.com/venkata-sai-sriram-potluri/Dockerised-Application-Deployment-in-Kubernetes-Cluster)
+
+---
+
+### GitOps Deployment with GitHub Actions and Terraform   
+Key Skills: Docker, Kubernetes, IaC(Terraform, CloudFormation), Load Balancing, AWS Block Storage (EBS)
+- Built Docker images from application source code using Docker Build, ensuring containerized application consistency.
+-	Tested containerized applications with Docker Compose, validating multi-container configurations and dependencies.
+-	Pushed Docker images to Docker Hub, enabling centralized storage and access for containerized applications.
+-	Deployed the application in a Kubernetes Cluster, utilizing Kubernetes Deployment and Services for scalable orchestration.
+-	Configured Ingress and Load Balancing with Application Load Balancer, ensuring efficient traffic management.
+-	Integrated Persistent Storage with Amazon EBS, supporting stateful application components and databases.
+- [View Repository](https://github.com/venkata-sai-sriram-potluri/GitOps-Deployment-with-GitHub-Actions-and-Terraform)
 
 ---
 
@@ -85,7 +120,7 @@ Key Skills: Jenkins, GitHub, Maven, Nexus Repository, SonarQube, Artifact Manage
 **Key Skills**: SARIMA, Python, Data Preprocessing, Time-Series Analysis  
 - Developed a demand forecasting model using SARIMA, reducing error by 7%.  
 - Analyzed sales and promotions data for actionable inventory insights.  
-- [View Repository](https://github.com/vssrp/Grocery-Demand-Prediction)
+- [View Repository](https://github.com/venkata-sai-sriram-potluri/Grocery-Demand-Prediction)
 
 ---
 
@@ -93,7 +128,7 @@ Key Skills: Jenkins, GitHub, Maven, Nexus Repository, SonarQube, Artifact Manage
 **Key Skills**: CNN, PyTorch, Deep Learning, Data Augmentation  
 - Built a custom CNN with 94% validation accuracy.  
 - Benchmarked against VGG16 and AlexNet for performance evaluation.  
-- [View Repository](https://github.com/vssrp/Counterfeit-IC-Detection-System)
+- [View Repository](https://github.com/venkata-sai-sriram-potluri/Counterfeit-IC-Detection-System)
 
 ---
 
@@ -101,7 +136,7 @@ Key Skills: Jenkins, GitHub, Maven, Nexus Repository, SonarQube, Artifact Manage
 **Key Skills**: Python, Tkinter, SVD, NLP  
 - Designed an extractive summarization tool using Singular Value Decomposition (SVD).  
 - Developed an interactive GUI for user input and customizations.  
-- [View Repository](https://github.com/vssrp/Text-Summarization-Tool-Using-SVD)
+- [View Repository](https://github.com/venkata-sai-sriram-potluri/Text-Summarization-Tool-Using-SVD)
 
 ---
 
@@ -111,7 +146,7 @@ Key Skills: Jenkins, GitHub, Maven, Nexus Repository, SonarQube, Artifact Manage
 - Developed an approximation algorithm (Vazirani and Yannakakis) for efficient, near-optimal solutions with a guaranteed error bound.
 - Analyzed trade-offs between computational efficiency and accuracy in solving NP-hard problems.
 - Applied solutions to real-world use cases in telecommunications, VLSI design, and transportation networks.
-- [View Repository](https://github.com/vssrp/Steiner-Tree-Problem-Optimization-Algorithms-for-Network-Design)
+- [View Repository](https://github.com/venkata-sai-sriram-potluri/Steiner-Tree-Problem-Optimization-Algorithms-for-Network-Design)
 
 ---
 
