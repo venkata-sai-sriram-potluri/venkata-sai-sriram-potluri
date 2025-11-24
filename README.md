@@ -4,7 +4,7 @@
 
 🌍 Location: Dallas, Texas  
 📫 Email: [vsrirampotluri@gmail.com](mailto:vsrirampotluri@gmail.com)  
-🔗 LinkedIn: [Venkata Sai Sriram Potluri](https://www.linkedin.com/in/vensaisriram-p/)
+🔗 LinkedIn: [Sriram P](https://www.linkedin.com/in/vensaisriram-p/)
 
 ---
 
