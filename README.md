@@ -1,37 +1,46 @@
 # 💻 Venkata Sai Sriram Potluri
 
-**DevOps Engineer | Cloud Engineer | Cloud Enthusiast | Cloud Infrastructure | Big Data | Machine Learning Enthusiast**
+**Cloud & DevOps Engineer | AWS Certified | Terraform & Kubernetes Certified | Azure/GCP Experience | CI/CD Automation | Cloud Infrastructure | Big Data | Machine Learning Enthusiast Open to C2C in USA**
 
 🌍 Location: Dallas, Texas  
-📫 Email: [pvenkatasaisriram@gmail.com](mailto:pvenkatasaisriram@gmail.com)  
-🔗 LinkedIn: [Venkata Sai Sriram Potluri](https://www.linkedin.com/in/venkata-sai-sriram-potluri)
+📫 Email: [vsrirampotluri@gmail.com](mailto:vsrirampotluri@gmail.com)  
+🔗 LinkedIn: [Venkata Sai Sriram Potluri](https://www.linkedin.com/in/vensaisriram-p/)
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi there! I'm Venkata Sai Sriram Potluri, an AWS Certified Solutions Architect, DevOps Engineer with over 3 years of experience designing and implementing scalable, secure, and high-performance cloud-based solutions.
+Hi there! I'm Venkata Sai Sriram Potluri, a Cloud & DevOps Engineer with 7 years of experience designing scalable, automated, and secure cloud infrastructures across AWS and multi-cloud environments. I focus on building high-availability systems, modernizing workloads, and enabling faster, reliable delivery through automation.
 
 🔧 What I Do
 
-Architect AWS-based infrastructures to solve real-world problems efficiently.
-Automate CI/CD pipelines to streamline development and deployment workflows.
-Optimize data warehouses and manage multi-terabyte datasets from diverse global sources.
-Deliver impactful insights using Python, SQL, and machine learning, creating scalable and actionable data solutions.
+Architect AWS and multi-cloud infrastructure for scalable, production-grade environments
+Build and automate CI/CD pipelines using GitHub Actions, GitLab, Jenkins, and Azure DevOps
+Implement Infrastructure as Code (Terraform & CloudFormation) for consistent, repeatable deployments
+Containerize and orchestrate workloads using Docker, Kubernetes, ECS, and Fargate
+Enhance performance and reliability through monitoring, logging, and cost optimization
+Integrate secure workflows using IAM, Secrets Manager, Key Vault, and RBAC
 
 🚀 Key Areas of Expertise
 
 Cloud Migrations and Secure Data Workflows
+Cloud Migrations & Infrastructure Modernization
+Kubernetes Deployments & GitOps Automation
+CI/CD Pipeline Engineering & Environment Automation
+Serverless Architectures (Lambda, API Gateway, DynamoDB)
+Observability (CloudWatch, Grafana, Prometheus, Splunk)
+High-Availability, Auto-Scaling & Cost Optimization
 Time-Series Forecasting and Computer Vision Projects
 ETL Pipeline Optimization and Real-Time Monitoring
-
 
 ---
 
 ## 📜 Certifications
 
-- **AWS Certified Solutions Architect Associate [Credentials](https://www.credly.com/badges/d79febf9-524f-46d2-92ad-0155dee6fdcf)**  
-- **AWS Certified Cloud Practitioner [Credentials](https://www.credly.com/badges/ef616831-59d1-498e-af2f-c80305987984)**  
+- **Certified Kubernetes Administrator (CKA)**
+- **HashiCorp Terraform Associate**
+-  **AWS Certified Solutions Architect Associate**  
+- **AWS Certified Cloud Practitioner**  
 - **Graduate Certificate in Data Science (KU)**  
 
 ---
